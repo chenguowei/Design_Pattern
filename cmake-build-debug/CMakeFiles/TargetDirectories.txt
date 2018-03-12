@@ -1,0 +1,3 @@
+/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir
