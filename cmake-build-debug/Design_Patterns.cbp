@@ -82,6 +82,96 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/adapter/Adapter.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/adapter/Adapter.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/adapter/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/bridge/Abstraction.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/bridge/Abstraction.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/bridge/AbstractionImplement.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/bridge/AbstractionImplement.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/bridge/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/chain_of_responsility/Handler.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/chain_of_responsility/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/command/Command.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/command/Command.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/command/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/composite/Composite.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/composite/Composite.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/composite/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/decorator/Decorator.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/decorator/Decorator.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/decorator/decorator.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/decorator/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/facade/Facade.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/facade/Facade.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/facade/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/Document.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/Document.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/Flyweight.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/Flyweight.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/test.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/iterator/Iterator.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/main.cpp">
 			<Option target="Design_Patterns"/>
 		</Unit>
@@ -92,6 +182,15 @@
 			<Option target="Design_Patterns"/>
 		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/prototype/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/proxy/Proxy.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/proxy/Proxy.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/proxy/main.cpp">
 			<Option target="Design_Patterns"/>
 		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/singleton/Singleton.cpp">

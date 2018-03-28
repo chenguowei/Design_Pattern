@@ -123,6 +123,519 @@ Design_Patterns/fast:
 	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/build
 .PHONY : Design_Patterns/fast
 
+adapter/Adapter.o: adapter/Adapter.cpp.o
+
+.PHONY : adapter/Adapter.o
+
+# target to build an object file
+adapter/Adapter.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/Adapter.cpp.o
+.PHONY : adapter/Adapter.cpp.o
+
+adapter/Adapter.i: adapter/Adapter.cpp.i
+
+.PHONY : adapter/Adapter.i
+
+# target to preprocess a source file
+adapter/Adapter.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/Adapter.cpp.i
+.PHONY : adapter/Adapter.cpp.i
+
+adapter/Adapter.s: adapter/Adapter.cpp.s
+
+.PHONY : adapter/Adapter.s
+
+# target to generate assembly for a file
+adapter/Adapter.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/Adapter.cpp.s
+.PHONY : adapter/Adapter.cpp.s
+
+adapter/main.o: adapter/main.cpp.o
+
+.PHONY : adapter/main.o
+
+# target to build an object file
+adapter/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/main.cpp.o
+.PHONY : adapter/main.cpp.o
+
+adapter/main.i: adapter/main.cpp.i
+
+.PHONY : adapter/main.i
+
+# target to preprocess a source file
+adapter/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/main.cpp.i
+.PHONY : adapter/main.cpp.i
+
+adapter/main.s: adapter/main.cpp.s
+
+.PHONY : adapter/main.s
+
+# target to generate assembly for a file
+adapter/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/adapter/main.cpp.s
+.PHONY : adapter/main.cpp.s
+
+bridge/Abstraction.o: bridge/Abstraction.cpp.o
+
+.PHONY : bridge/Abstraction.o
+
+# target to build an object file
+bridge/Abstraction.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/Abstraction.cpp.o
+.PHONY : bridge/Abstraction.cpp.o
+
+bridge/Abstraction.i: bridge/Abstraction.cpp.i
+
+.PHONY : bridge/Abstraction.i
+
+# target to preprocess a source file
+bridge/Abstraction.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/Abstraction.cpp.i
+.PHONY : bridge/Abstraction.cpp.i
+
+bridge/Abstraction.s: bridge/Abstraction.cpp.s
+
+.PHONY : bridge/Abstraction.s
+
+# target to generate assembly for a file
+bridge/Abstraction.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/Abstraction.cpp.s
+.PHONY : bridge/Abstraction.cpp.s
+
+bridge/AbstractionImplement.o: bridge/AbstractionImplement.cpp.o
+
+.PHONY : bridge/AbstractionImplement.o
+
+# target to build an object file
+bridge/AbstractionImplement.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/AbstractionImplement.cpp.o
+.PHONY : bridge/AbstractionImplement.cpp.o
+
+bridge/AbstractionImplement.i: bridge/AbstractionImplement.cpp.i
+
+.PHONY : bridge/AbstractionImplement.i
+
+# target to preprocess a source file
+bridge/AbstractionImplement.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/AbstractionImplement.cpp.i
+.PHONY : bridge/AbstractionImplement.cpp.i
+
+bridge/AbstractionImplement.s: bridge/AbstractionImplement.cpp.s
+
+.PHONY : bridge/AbstractionImplement.s
+
+# target to generate assembly for a file
+bridge/AbstractionImplement.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/AbstractionImplement.cpp.s
+.PHONY : bridge/AbstractionImplement.cpp.s
+
+bridge/main.o: bridge/main.cpp.o
+
+.PHONY : bridge/main.o
+
+# target to build an object file
+bridge/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/main.cpp.o
+.PHONY : bridge/main.cpp.o
+
+bridge/main.i: bridge/main.cpp.i
+
+.PHONY : bridge/main.i
+
+# target to preprocess a source file
+bridge/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/main.cpp.i
+.PHONY : bridge/main.cpp.i
+
+bridge/main.s: bridge/main.cpp.s
+
+.PHONY : bridge/main.s
+
+# target to generate assembly for a file
+bridge/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/bridge/main.cpp.s
+.PHONY : bridge/main.cpp.s
+
+chain_of_responsility/main.o: chain_of_responsility/main.cpp.o
+
+.PHONY : chain_of_responsility/main.o
+
+# target to build an object file
+chain_of_responsility/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/chain_of_responsility/main.cpp.o
+.PHONY : chain_of_responsility/main.cpp.o
+
+chain_of_responsility/main.i: chain_of_responsility/main.cpp.i
+
+.PHONY : chain_of_responsility/main.i
+
+# target to preprocess a source file
+chain_of_responsility/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/chain_of_responsility/main.cpp.i
+.PHONY : chain_of_responsility/main.cpp.i
+
+chain_of_responsility/main.s: chain_of_responsility/main.cpp.s
+
+.PHONY : chain_of_responsility/main.s
+
+# target to generate assembly for a file
+chain_of_responsility/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/chain_of_responsility/main.cpp.s
+.PHONY : chain_of_responsility/main.cpp.s
+
+command/Command.o: command/Command.cpp.o
+
+.PHONY : command/Command.o
+
+# target to build an object file
+command/Command.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/Command.cpp.o
+.PHONY : command/Command.cpp.o
+
+command/Command.i: command/Command.cpp.i
+
+.PHONY : command/Command.i
+
+# target to preprocess a source file
+command/Command.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/Command.cpp.i
+.PHONY : command/Command.cpp.i
+
+command/Command.s: command/Command.cpp.s
+
+.PHONY : command/Command.s
+
+# target to generate assembly for a file
+command/Command.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/Command.cpp.s
+.PHONY : command/Command.cpp.s
+
+command/main.o: command/main.cpp.o
+
+.PHONY : command/main.o
+
+# target to build an object file
+command/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/main.cpp.o
+.PHONY : command/main.cpp.o
+
+command/main.i: command/main.cpp.i
+
+.PHONY : command/main.i
+
+# target to preprocess a source file
+command/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/main.cpp.i
+.PHONY : command/main.cpp.i
+
+command/main.s: command/main.cpp.s
+
+.PHONY : command/main.s
+
+# target to generate assembly for a file
+command/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/command/main.cpp.s
+.PHONY : command/main.cpp.s
+
+composite/Composite.o: composite/Composite.cpp.o
+
+.PHONY : composite/Composite.o
+
+# target to build an object file
+composite/Composite.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/Composite.cpp.o
+.PHONY : composite/Composite.cpp.o
+
+composite/Composite.i: composite/Composite.cpp.i
+
+.PHONY : composite/Composite.i
+
+# target to preprocess a source file
+composite/Composite.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/Composite.cpp.i
+.PHONY : composite/Composite.cpp.i
+
+composite/Composite.s: composite/Composite.cpp.s
+
+.PHONY : composite/Composite.s
+
+# target to generate assembly for a file
+composite/Composite.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/Composite.cpp.s
+.PHONY : composite/Composite.cpp.s
+
+composite/main.o: composite/main.cpp.o
+
+.PHONY : composite/main.o
+
+# target to build an object file
+composite/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/main.cpp.o
+.PHONY : composite/main.cpp.o
+
+composite/main.i: composite/main.cpp.i
+
+.PHONY : composite/main.i
+
+# target to preprocess a source file
+composite/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/main.cpp.i
+.PHONY : composite/main.cpp.i
+
+composite/main.s: composite/main.cpp.s
+
+.PHONY : composite/main.s
+
+# target to generate assembly for a file
+composite/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/composite/main.cpp.s
+.PHONY : composite/main.cpp.s
+
+decorator/Decorator.o: decorator/Decorator.cpp.o
+
+.PHONY : decorator/Decorator.o
+
+# target to build an object file
+decorator/Decorator.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/Decorator.cpp.o
+.PHONY : decorator/Decorator.cpp.o
+
+decorator/Decorator.i: decorator/Decorator.cpp.i
+
+.PHONY : decorator/Decorator.i
+
+# target to preprocess a source file
+decorator/Decorator.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/Decorator.cpp.i
+.PHONY : decorator/Decorator.cpp.i
+
+decorator/Decorator.s: decorator/Decorator.cpp.s
+
+.PHONY : decorator/Decorator.s
+
+# target to generate assembly for a file
+decorator/Decorator.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/Decorator.cpp.s
+.PHONY : decorator/Decorator.cpp.s
+
+decorator/main.o: decorator/main.cpp.o
+
+.PHONY : decorator/main.o
+
+# target to build an object file
+decorator/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/main.cpp.o
+.PHONY : decorator/main.cpp.o
+
+decorator/main.i: decorator/main.cpp.i
+
+.PHONY : decorator/main.i
+
+# target to preprocess a source file
+decorator/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/main.cpp.i
+.PHONY : decorator/main.cpp.i
+
+decorator/main.s: decorator/main.cpp.s
+
+.PHONY : decorator/main.s
+
+# target to generate assembly for a file
+decorator/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/decorator/main.cpp.s
+.PHONY : decorator/main.cpp.s
+
+facade/Facade.o: facade/Facade.cpp.o
+
+.PHONY : facade/Facade.o
+
+# target to build an object file
+facade/Facade.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/Facade.cpp.o
+.PHONY : facade/Facade.cpp.o
+
+facade/Facade.i: facade/Facade.cpp.i
+
+.PHONY : facade/Facade.i
+
+# target to preprocess a source file
+facade/Facade.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/Facade.cpp.i
+.PHONY : facade/Facade.cpp.i
+
+facade/Facade.s: facade/Facade.cpp.s
+
+.PHONY : facade/Facade.s
+
+# target to generate assembly for a file
+facade/Facade.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/Facade.cpp.s
+.PHONY : facade/Facade.cpp.s
+
+facade/main.o: facade/main.cpp.o
+
+.PHONY : facade/main.o
+
+# target to build an object file
+facade/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/main.cpp.o
+.PHONY : facade/main.cpp.o
+
+facade/main.i: facade/main.cpp.i
+
+.PHONY : facade/main.i
+
+# target to preprocess a source file
+facade/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/main.cpp.i
+.PHONY : facade/main.cpp.i
+
+facade/main.s: facade/main.cpp.s
+
+.PHONY : facade/main.s
+
+# target to generate assembly for a file
+facade/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/facade/main.cpp.s
+.PHONY : facade/main.cpp.s
+
+flyweight/Document.o: flyweight/Document.cpp.o
+
+.PHONY : flyweight/Document.o
+
+# target to build an object file
+flyweight/Document.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Document.cpp.o
+.PHONY : flyweight/Document.cpp.o
+
+flyweight/Document.i: flyweight/Document.cpp.i
+
+.PHONY : flyweight/Document.i
+
+# target to preprocess a source file
+flyweight/Document.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Document.cpp.i
+.PHONY : flyweight/Document.cpp.i
+
+flyweight/Document.s: flyweight/Document.cpp.s
+
+.PHONY : flyweight/Document.s
+
+# target to generate assembly for a file
+flyweight/Document.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Document.cpp.s
+.PHONY : flyweight/Document.cpp.s
+
+flyweight/Flyweight.o: flyweight/Flyweight.cpp.o
+
+.PHONY : flyweight/Flyweight.o
+
+# target to build an object file
+flyweight/Flyweight.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Flyweight.cpp.o
+.PHONY : flyweight/Flyweight.cpp.o
+
+flyweight/Flyweight.i: flyweight/Flyweight.cpp.i
+
+.PHONY : flyweight/Flyweight.i
+
+# target to preprocess a source file
+flyweight/Flyweight.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Flyweight.cpp.i
+.PHONY : flyweight/Flyweight.cpp.i
+
+flyweight/Flyweight.s: flyweight/Flyweight.cpp.s
+
+.PHONY : flyweight/Flyweight.s
+
+# target to generate assembly for a file
+flyweight/Flyweight.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/Flyweight.cpp.s
+.PHONY : flyweight/Flyweight.cpp.s
+
+flyweight/main.o: flyweight/main.cpp.o
+
+.PHONY : flyweight/main.o
+
+# target to build an object file
+flyweight/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/main.cpp.o
+.PHONY : flyweight/main.cpp.o
+
+flyweight/main.i: flyweight/main.cpp.i
+
+.PHONY : flyweight/main.i
+
+# target to preprocess a source file
+flyweight/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/main.cpp.i
+.PHONY : flyweight/main.cpp.i
+
+flyweight/main.s: flyweight/main.cpp.s
+
+.PHONY : flyweight/main.s
+
+# target to generate assembly for a file
+flyweight/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/main.cpp.s
+.PHONY : flyweight/main.cpp.s
+
+flyweight/test.o: flyweight/test.cpp.o
+
+.PHONY : flyweight/test.o
+
+# target to build an object file
+flyweight/test.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/test.cpp.o
+.PHONY : flyweight/test.cpp.o
+
+flyweight/test.i: flyweight/test.cpp.i
+
+.PHONY : flyweight/test.i
+
+# target to preprocess a source file
+flyweight/test.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/test.cpp.i
+.PHONY : flyweight/test.cpp.i
+
+flyweight/test.s: flyweight/test.cpp.s
+
+.PHONY : flyweight/test.s
+
+# target to generate assembly for a file
+flyweight/test.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/flyweight/test.cpp.s
+.PHONY : flyweight/test.cpp.s
+
+iterator/Iterator.o: iterator/Iterator.cpp.o
+
+.PHONY : iterator/Iterator.o
+
+# target to build an object file
+iterator/Iterator.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o
+.PHONY : iterator/Iterator.cpp.o
+
+iterator/Iterator.i: iterator/Iterator.cpp.i
+
+.PHONY : iterator/Iterator.i
+
+# target to preprocess a source file
+iterator/Iterator.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.i
+.PHONY : iterator/Iterator.cpp.i
+
+iterator/Iterator.s: iterator/Iterator.cpp.s
+
+.PHONY : iterator/Iterator.s
+
+# target to generate assembly for a file
+iterator/Iterator.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.s
+.PHONY : iterator/Iterator.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -204,6 +717,60 @@ prototype/main.cpp.s:
 	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/prototype/main.cpp.s
 .PHONY : prototype/main.cpp.s
 
+proxy/Proxy.o: proxy/Proxy.cpp.o
+
+.PHONY : proxy/Proxy.o
+
+# target to build an object file
+proxy/Proxy.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/Proxy.cpp.o
+.PHONY : proxy/Proxy.cpp.o
+
+proxy/Proxy.i: proxy/Proxy.cpp.i
+
+.PHONY : proxy/Proxy.i
+
+# target to preprocess a source file
+proxy/Proxy.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/Proxy.cpp.i
+.PHONY : proxy/Proxy.cpp.i
+
+proxy/Proxy.s: proxy/Proxy.cpp.s
+
+.PHONY : proxy/Proxy.s
+
+# target to generate assembly for a file
+proxy/Proxy.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/Proxy.cpp.s
+.PHONY : proxy/Proxy.cpp.s
+
+proxy/main.o: proxy/main.cpp.o
+
+.PHONY : proxy/main.o
+
+# target to build an object file
+proxy/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/main.cpp.o
+.PHONY : proxy/main.cpp.o
+
+proxy/main.i: proxy/main.cpp.i
+
+.PHONY : proxy/main.i
+
+# target to preprocess a source file
+proxy/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/main.cpp.i
+.PHONY : proxy/main.cpp.i
+
+proxy/main.s: proxy/main.cpp.s
+
+.PHONY : proxy/main.s
+
+# target to generate assembly for a file
+proxy/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/proxy/main.cpp.s
+.PHONY : proxy/main.cpp.s
+
 singleton/Singleton.o: singleton/Singleton.cpp.o
 
 .PHONY : singleton/Singleton.o
@@ -267,6 +834,63 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Design_Patterns"
+	@echo "... adapter/Adapter.o"
+	@echo "... adapter/Adapter.i"
+	@echo "... adapter/Adapter.s"
+	@echo "... adapter/main.o"
+	@echo "... adapter/main.i"
+	@echo "... adapter/main.s"
+	@echo "... bridge/Abstraction.o"
+	@echo "... bridge/Abstraction.i"
+	@echo "... bridge/Abstraction.s"
+	@echo "... bridge/AbstractionImplement.o"
+	@echo "... bridge/AbstractionImplement.i"
+	@echo "... bridge/AbstractionImplement.s"
+	@echo "... bridge/main.o"
+	@echo "... bridge/main.i"
+	@echo "... bridge/main.s"
+	@echo "... chain_of_responsility/main.o"
+	@echo "... chain_of_responsility/main.i"
+	@echo "... chain_of_responsility/main.s"
+	@echo "... command/Command.o"
+	@echo "... command/Command.i"
+	@echo "... command/Command.s"
+	@echo "... command/main.o"
+	@echo "... command/main.i"
+	@echo "... command/main.s"
+	@echo "... composite/Composite.o"
+	@echo "... composite/Composite.i"
+	@echo "... composite/Composite.s"
+	@echo "... composite/main.o"
+	@echo "... composite/main.i"
+	@echo "... composite/main.s"
+	@echo "... decorator/Decorator.o"
+	@echo "... decorator/Decorator.i"
+	@echo "... decorator/Decorator.s"
+	@echo "... decorator/main.o"
+	@echo "... decorator/main.i"
+	@echo "... decorator/main.s"
+	@echo "... facade/Facade.o"
+	@echo "... facade/Facade.i"
+	@echo "... facade/Facade.s"
+	@echo "... facade/main.o"
+	@echo "... facade/main.i"
+	@echo "... facade/main.s"
+	@echo "... flyweight/Document.o"
+	@echo "... flyweight/Document.i"
+	@echo "... flyweight/Document.s"
+	@echo "... flyweight/Flyweight.o"
+	@echo "... flyweight/Flyweight.i"
+	@echo "... flyweight/Flyweight.s"
+	@echo "... flyweight/main.o"
+	@echo "... flyweight/main.i"
+	@echo "... flyweight/main.s"
+	@echo "... flyweight/test.o"
+	@echo "... flyweight/test.i"
+	@echo "... flyweight/test.s"
+	@echo "... iterator/Iterator.o"
+	@echo "... iterator/Iterator.i"
+	@echo "... iterator/Iterator.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -276,6 +900,12 @@ help:
 	@echo "... prototype/main.o"
 	@echo "... prototype/main.i"
 	@echo "... prototype/main.s"
+	@echo "... proxy/Proxy.o"
+	@echo "... proxy/Proxy.i"
+	@echo "... proxy/Proxy.s"
+	@echo "... proxy/main.o"
+	@echo "... proxy/main.i"
+	@echo "... proxy/main.s"
 	@echo "... singleton/Singleton.o"
 	@echo "... singleton/Singleton.i"
 	@echo "... singleton/Singleton.s"

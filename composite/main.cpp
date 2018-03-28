@@ -50,7 +50,7 @@ int main(void)
 
 
   // 后续有一系列的删除对象的操作
-  
+
   return 0;
 }
 
