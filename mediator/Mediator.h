@@ -1,0 +1,8 @@
+//
+// Created by 陈国威 on 2018/3/29.
+//
+
+#ifndef DESIGN_PATTERNS_MEDIATOR_H
+#define DESIGN_PATTERNS_MEDIATOR_H
+
+#endif //DESIGN_PATTERNS_MEDIATOR_H
