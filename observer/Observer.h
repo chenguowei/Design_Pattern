@@ -1,0 +1,8 @@
+//
+// Created by 陈国威 on 2018/4/3.
+//
+
+#ifndef DESIGN_PATTERNS_OBSERVER_H
+#define DESIGN_PATTERNS_OBSERVER_H
+
+#endif //DESIGN_PATTERNS_OBSERVER_H
