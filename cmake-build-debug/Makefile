@@ -663,6 +663,114 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mediator/Mediator.o: mediator/Mediator.cpp.o
+
+.PHONY : mediator/Mediator.o
+
+# target to build an object file
+mediator/Mediator.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o
+.PHONY : mediator/Mediator.cpp.o
+
+mediator/Mediator.i: mediator/Mediator.cpp.i
+
+.PHONY : mediator/Mediator.i
+
+# target to preprocess a source file
+mediator/Mediator.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.i
+.PHONY : mediator/Mediator.cpp.i
+
+mediator/Mediator.s: mediator/Mediator.cpp.s
+
+.PHONY : mediator/Mediator.s
+
+# target to generate assembly for a file
+mediator/Mediator.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.s
+.PHONY : mediator/Mediator.cpp.s
+
+mediator/main.o: mediator/main.cpp.o
+
+.PHONY : mediator/main.o
+
+# target to build an object file
+mediator/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o
+.PHONY : mediator/main.cpp.o
+
+mediator/main.i: mediator/main.cpp.i
+
+.PHONY : mediator/main.i
+
+# target to preprocess a source file
+mediator/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/main.cpp.i
+.PHONY : mediator/main.cpp.i
+
+mediator/main.s: mediator/main.cpp.s
+
+.PHONY : mediator/main.s
+
+# target to generate assembly for a file
+mediator/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/main.cpp.s
+.PHONY : mediator/main.cpp.s
+
+observer/Observer.o: observer/Observer.cpp.o
+
+.PHONY : observer/Observer.o
+
+# target to build an object file
+observer/Observer.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o
+.PHONY : observer/Observer.cpp.o
+
+observer/Observer.i: observer/Observer.cpp.i
+
+.PHONY : observer/Observer.i
+
+# target to preprocess a source file
+observer/Observer.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.i
+.PHONY : observer/Observer.cpp.i
+
+observer/Observer.s: observer/Observer.cpp.s
+
+.PHONY : observer/Observer.s
+
+# target to generate assembly for a file
+observer/Observer.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.s
+.PHONY : observer/Observer.cpp.s
+
+observer/main.o: observer/main.cpp.o
+
+.PHONY : observer/main.o
+
+# target to build an object file
+observer/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/main.cpp.o
+.PHONY : observer/main.cpp.o
+
+observer/main.i: observer/main.cpp.i
+
+.PHONY : observer/main.i
+
+# target to preprocess a source file
+observer/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/main.cpp.i
+.PHONY : observer/main.cpp.i
+
+observer/main.s: observer/main.cpp.s
+
+.PHONY : observer/main.s
+
+# target to generate assembly for a file
+observer/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/main.cpp.s
+.PHONY : observer/main.cpp.s
+
 prototype/Prototype.o: prototype/Prototype.cpp.o
 
 .PHONY : prototype/Prototype.o
@@ -825,6 +933,60 @@ singleton/main.cpp.s:
 	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/singleton/main.cpp.s
 .PHONY : singleton/main.cpp.s
 
+state/State.o: state/State.cpp.o
+
+.PHONY : state/State.o
+
+# target to build an object file
+state/State.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/State.cpp.o
+.PHONY : state/State.cpp.o
+
+state/State.i: state/State.cpp.i
+
+.PHONY : state/State.i
+
+# target to preprocess a source file
+state/State.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/State.cpp.i
+.PHONY : state/State.cpp.i
+
+state/State.s: state/State.cpp.s
+
+.PHONY : state/State.s
+
+# target to generate assembly for a file
+state/State.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/State.cpp.s
+.PHONY : state/State.cpp.s
+
+state/main.o: state/main.cpp.o
+
+.PHONY : state/main.o
+
+# target to build an object file
+state/main.cpp.o:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/main.cpp.o
+.PHONY : state/main.cpp.o
+
+state/main.i: state/main.cpp.i
+
+.PHONY : state/main.i
+
+# target to preprocess a source file
+state/main.cpp.i:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/main.cpp.i
+.PHONY : state/main.cpp.i
+
+state/main.s: state/main.cpp.s
+
+.PHONY : state/main.s
+
+# target to generate assembly for a file
+state/main.cpp.s:
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/main.cpp.s
+.PHONY : state/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -894,6 +1056,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mediator/Mediator.o"
+	@echo "... mediator/Mediator.i"
+	@echo "... mediator/Mediator.s"
+	@echo "... mediator/main.o"
+	@echo "... mediator/main.i"
+	@echo "... mediator/main.s"
+	@echo "... observer/Observer.o"
+	@echo "... observer/Observer.i"
+	@echo "... observer/Observer.s"
+	@echo "... observer/main.o"
+	@echo "... observer/main.i"
+	@echo "... observer/main.s"
 	@echo "... prototype/Prototype.o"
 	@echo "... prototype/Prototype.i"
 	@echo "... prototype/Prototype.s"
@@ -912,6 +1086,12 @@ help:
 	@echo "... singleton/main.o"
 	@echo "... singleton/main.i"
 	@echo "... singleton/main.s"
+	@echo "... state/State.o"
+	@echo "... state/State.i"
+	@echo "... state/State.s"
+	@echo "... state/main.o"
+	@echo "... state/main.i"
+	@echo "... state/main.s"
 .PHONY : help
 
 

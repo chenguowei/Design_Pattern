@@ -24,12 +24,18 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/chenguowei/CLionProjects/Design_Patterns/flyweight/test.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/flyweight/test.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/iterator/Iterator.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/main.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/mediator/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/observer/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/observer/main.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/prototype/Prototype.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/prototype/Prototype.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/prototype/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/prototype/main.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/proxy/Proxy.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/proxy/Proxy.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/proxy/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/proxy/main.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/singleton/Singleton.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/singleton/Singleton.cpp.o"
   "/Users/chenguowei/CLionProjects/Design_Patterns/singleton/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/singleton/main.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/state/State.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/state/State.cpp.o"
+  "/Users/chenguowei/CLionProjects/Design_Patterns/state/main.cpp" "/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles/Design_Patterns.dir/state/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

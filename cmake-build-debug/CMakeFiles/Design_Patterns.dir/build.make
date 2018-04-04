@@ -681,6 +681,150 @@ CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o.provides: CMakeFiles/Desi
 CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o
 
 
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o: ../mediator/Mediator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.cpp
+
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.cpp > CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.i
+
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.cpp -o CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.s
+
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.provides: CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o
+
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o: ../mediator/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/mediator/main.cpp
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/mediator/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/mediator/main.cpp > CMakeFiles/Design_Patterns.dir/mediator/main.cpp.i
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/mediator/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/mediator/main.cpp -o CMakeFiles/Design_Patterns.dir/mediator/main.cpp.s
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.provides: CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o
+
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o: ../observer/Observer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.cpp
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.cpp > CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.i
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.cpp -o CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.s
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.provides: CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o
+
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.o: ../observer/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Design_Patterns.dir/observer/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/observer/main.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/observer/main.cpp
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/observer/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/observer/main.cpp > CMakeFiles/Design_Patterns.dir/observer/main.cpp.i
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/observer/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/observer/main.cpp -o CMakeFiles/Design_Patterns.dir/observer/main.cpp.s
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.provides: CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/observer/main.cpp.o
+
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/state/State.cpp.o: ../state/State.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Design_Patterns.dir/state/State.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/state/State.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/state/State.cpp
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/state/State.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/state/State.cpp > CMakeFiles/Design_Patterns.dir/state/State.cpp.i
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/state/State.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/state/State.cpp -o CMakeFiles/Design_Patterns.dir/state/State.cpp.s
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/state/State.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.o.provides: CMakeFiles/Design_Patterns.dir/state/State.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/State.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/state/State.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/state/State.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/state/State.cpp.o
+
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.o: CMakeFiles/Design_Patterns.dir/flags.make
+CMakeFiles/Design_Patterns.dir/state/main.cpp.o: ../state/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Design_Patterns.dir/state/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Design_Patterns.dir/state/main.cpp.o -c /Users/chenguowei/CLionProjects/Design_Patterns/state/main.cpp
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Design_Patterns.dir/state/main.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/chenguowei/CLionProjects/Design_Patterns/state/main.cpp > CMakeFiles/Design_Patterns.dir/state/main.cpp.i
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Design_Patterns.dir/state/main.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/chenguowei/CLionProjects/Design_Patterns/state/main.cpp -o CMakeFiles/Design_Patterns.dir/state/main.cpp.s
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.o.requires:
+
+.PHONY : CMakeFiles/Design_Patterns.dir/state/main.cpp.o.requires
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.o.provides: CMakeFiles/Design_Patterns.dir/state/main.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Design_Patterns.dir/build.make CMakeFiles/Design_Patterns.dir/state/main.cpp.o.provides.build
+.PHONY : CMakeFiles/Design_Patterns.dir/state/main.cpp.o.provides
+
+CMakeFiles/Design_Patterns.dir/state/main.cpp.o.provides.build: CMakeFiles/Design_Patterns.dir/state/main.cpp.o
+
+
 # Object files for target Design_Patterns
 Design_Patterns_OBJECTS = \
 "CMakeFiles/Design_Patterns.dir/main.cpp.o" \
@@ -708,7 +852,13 @@ Design_Patterns_OBJECTS = \
 "CMakeFiles/Design_Patterns.dir/chain_of_responsility/main.cpp.o" \
 "CMakeFiles/Design_Patterns.dir/command/Command.cpp.o" \
 "CMakeFiles/Design_Patterns.dir/command/main.cpp.o" \
-"CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o"
+"CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/observer/main.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/state/State.cpp.o" \
+"CMakeFiles/Design_Patterns.dir/state/main.cpp.o"
 
 # External object files for target Design_Patterns
 Design_Patterns_EXTERNAL_OBJECTS =
@@ -739,9 +889,15 @@ Design_Patterns: CMakeFiles/Design_Patterns.dir/chain_of_responsility/main.cpp.o
 Design_Patterns: CMakeFiles/Design_Patterns.dir/command/Command.cpp.o
 Design_Patterns: CMakeFiles/Design_Patterns.dir/command/main.cpp.o
 Design_Patterns: CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/observer/main.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/state/State.cpp.o
+Design_Patterns: CMakeFiles/Design_Patterns.dir/state/main.cpp.o
 Design_Patterns: CMakeFiles/Design_Patterns.dir/build.make
 Design_Patterns: CMakeFiles/Design_Patterns.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Linking CXX executable Design_Patterns"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/chenguowei/CLionProjects/Design_Patterns/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable Design_Patterns"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Design_Patterns.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -775,6 +931,12 @@ CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/chain_of
 CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/command/Command.cpp.o.requires
 CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/command/main.cpp.o.requires
 CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/observer/main.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/state/State.cpp.o.requires
+CMakeFiles/Design_Patterns.dir/requires: CMakeFiles/Design_Patterns.dir/state/main.cpp.o.requires
 
 .PHONY : CMakeFiles/Design_Patterns.dir/requires
 

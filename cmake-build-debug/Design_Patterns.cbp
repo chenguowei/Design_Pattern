@@ -175,6 +175,24 @@
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/main.cpp">
 			<Option target="Design_Patterns"/>
 		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/mediator/Mediator.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/mediator/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/observer/Observer.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/observer/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/prototype/Prototype.cpp">
 			<Option target="Design_Patterns"/>
 		</Unit>
@@ -200,6 +218,15 @@
 			<Option target="Design_Patterns"/>
 		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/singleton/main.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/state/State.cpp">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/state/State.h">
+			<Option target="Design_Patterns"/>
+		</Unit>
+		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/state/main.cpp">
 			<Option target="Design_Patterns"/>
 		</Unit>
 		<Unit filename="/Users/chenguowei/CLionProjects/Design_Patterns/CMakeLists.txt">

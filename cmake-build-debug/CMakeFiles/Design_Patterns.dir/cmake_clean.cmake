@@ -25,6 +25,12 @@ file(REMOVE_RECURSE
   "CMakeFiles/Design_Patterns.dir/command/Command.cpp.o"
   "CMakeFiles/Design_Patterns.dir/command/main.cpp.o"
   "CMakeFiles/Design_Patterns.dir/iterator/Iterator.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/mediator/Mediator.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/mediator/main.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/observer/Observer.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/observer/main.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/state/State.cpp.o"
+  "CMakeFiles/Design_Patterns.dir/state/main.cpp.o"
   "Design_Patterns.pdb"
   "Design_Patterns"
 )
