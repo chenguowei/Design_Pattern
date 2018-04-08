@@ -1,0 +1,8 @@
+//
+// Created by 陈国威 on 2018/4/8.
+//
+
+#ifndef DESIGN_PATTERNS_STRATEGY_H
+#define DESIGN_PATTERNS_STRATEGY_H
+
+#endif //DESIGN_PATTERNS_STRATEGY_H
